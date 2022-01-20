@@ -1,0 +1,19 @@
+{
+  "name": "dsbots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "Simone Di Maria",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.4.1",
+    "puppeteer": "^5.4.1",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
